@@ -8,6 +8,7 @@ app = FastAPI()
 
 origins = [
     "http://localhost:5173",
+    "https://rag-powered-news-chatbot-frontend.onrender.com"
 ]
 
 app.add_middleware(
