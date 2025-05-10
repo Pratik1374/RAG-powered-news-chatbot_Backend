@@ -1,0 +1,10 @@
+chromadb
+google-genai
+python-dotenv
+feedparser
+numpy
+fastapi
+uvicorn
+redis
+pydantic
+requests
